@@ -1,5 +1,3 @@
-# Spring Sample App
+# Sample Helloworld App for Cloud Foundry
 
-```cf push```
 
-https://docs.cloudfoundry.org/buildpacks/java/java-tips.html
